@@ -17,3 +17,10 @@ Ett fullstack-system där lärare kan registrera elever och hantera deras projek
 - `client` – frontend
 - `server` – backend och REST API
 - `database` – SQL-filer
+
+## Databas med Docker
+
+### Starta PostgreSQL
+
+```bash
+docker compose up -d
